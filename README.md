@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @EduardoGoMo
 - 👀 I’m interested in Web n software development
+- I'm looking to collaborate in new projects
 
 
 <!---
